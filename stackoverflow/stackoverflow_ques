@@ -1,0 +1,102 @@
+date,link,tag,title,votes
+,,,,
+2021-09-23 18:27:48Z,https://stackoverflow.com/questions/69305213/extract-month-intervals-out-of-a-string,python,Extract Month Intervals out of a string,0
+2021-09-23 18:23:47Z,https://stackoverflow.com/questions/69305158/how-to-drop-a-range-of-rows-up-until-a-certain-line-in-python-using-pandas,python,How to drop a range of rows up until a certain line in Python using Pandas,-1
+2021-09-23 18:23:42Z,https://stackoverflow.com/questions/69305155/i-used-unsplash-to-get-any-image-which-we-type-but-i-am-not-getting-any-response,python,I used unsplash to get any image which we type but i am not getting any response,0
+2021-09-23 18:22:23Z,https://stackoverflow.com/questions/69305144/how-to-get-the-scala-equivalent-code-for-the-python-code,python,How to get the Scala equivalent code for the Python code,0
+2021-09-23 18:19:50Z,https://stackoverflow.com/questions/69305111/increment-a-column-based-on-the-condition-of-another-column-in-python,python,Increment a column based on the condition of another column in python,0
+2021-09-23 18:19:48Z,https://stackoverflow.com/questions/69305109/getting-error-when-scraping-data-from-link-with-extra-column-to-dataframe-in-pan,python,Getting error when scraping data from link with extra column to dataframe in pandas,0
+2021-09-23 18:19:26Z,https://stackoverflow.com/questions/69305104/flagging-outliers-in-dataframe-creating-a-new-column-in-pandas,python,"Flagging outliers in dataframe, creating a new column in pandas",0
+2021-09-23 18:16:01Z,https://stackoverflow.com/questions/69305071/instagram-scrapping-using-python,python,Instagram Scrapping using Python,0
+2021-09-23 18:15:52Z,https://stackoverflow.com/questions/69305069/error-xml-sax-not-found-during-software-installation,python,Error xml.sax not found during software installation,0
+2021-09-23 18:15:18Z,https://stackoverflow.com/questions/69305061/how-to-only-output-the-calculations-done-in-the-code-into-an-excel-file-python,python,How to only output the calculations done in the code into an excel file python?,0
+2021-09-23 18:14:00Z,https://stackoverflow.com/questions/69305045/python-remove-row-if-item-is-above-certain-value-and-replace-if-between-other,python,Python - Remove row if item is above certain value and replace if between other values,0
+2021-09-23 18:13:51Z,https://stackoverflow.com/questions/69305043/batch-execute-ffmpeg-command-on-multiple-sets-of-images-at-once-novice,python,Batch execute (ffmpeg) command on multiple sets of images at once [Novice],0
+2021-09-23 18:13:16Z,https://stackoverflow.com/questions/69305037/python-take-an-int-variable-and-times-it-by-a-float,python,Python - Take an int variable and times it by a float?,0
+2021-09-23 18:13:06Z,https://stackoverflow.com/questions/69305034/is-there-a-way-to-select-interior-true-values-for-portions-of-a-dataframe,python,Is there a way to select interior True values for portions of a DataFrame?,0
+2021-09-23 18:10:28Z,https://stackoverflow.com/questions/69305012/how-to-append-value-to-list-in-a-row-based-on-another-column-python,python,How to append value to list in a row based on another column python?,0
+2021-09-23 18:10:17Z,https://stackoverflow.com/questions/69305010/how-to-pass-a-javascript-variable-inside-a-url-get-in-django,python,How to pass a javascript variable inside a url get in Django,0
+2021-09-23 18:10:15Z,https://stackoverflow.com/questions/69305009/filling-values-into-mutiple-dictionaries-via-for-loop,python,Filling values into mutiple dictionaries via for loop,0
+2021-09-23 18:10:13Z,https://stackoverflow.com/questions/69305008/binary-search-on-a-character-of-type,python,"Binary Search on a character of type '/'",0
+2021-09-23 18:09:53Z,https://stackoverflow.com/questions/69305003/convolution-layer-dimension-mismatch-issue,python,Convolution layer dimension mismatch issue,0
+2021-09-23 18:09:01Z,https://stackoverflow.com/questions/69304992/slice-all-except-first-element-unless-single-element,python,"Slice all except first element, unless single element",1
+2021-09-23 18:09:01Z,https://stackoverflow.com/questions/69304991/stuck-making-a-decision-tree-with-numerical-values,python,Stuck making a decision tree with numerical values,0
+2021-09-23 18:08:04Z,https://stackoverflow.com/questions/69304979/getting-a-key-corresponding-to-a-specific-value-in-a-dictionary-in-python,python,Getting a key corresponding to a specific value in a dictionary in python,0
+2021-09-23 18:07:36Z,https://stackoverflow.com/questions/69304973/efficiently-intersect-volumes-in-python,python,efficiently intersect volumes in python,0
+2021-09-23 18:06:22Z,https://stackoverflow.com/questions/69304958/django-core-exceptions-fielderror-unknown-fields-in-modelform,python,django.core.exceptions.FieldError: Unknown field(s) in ModelForm,0
+2021-09-23 18:01:31Z,https://stackoverflow.com/questions/69304909/cant-deploy-python-django-flask-app-to-heroku,python,"Can't deploy Python Django Flask app to Heroku?",0
+2021-09-23 17:59:43Z,https://stackoverflow.com/questions/69304888/how-to-remove-parentheses-and-apostrophe-mark-in-output-list-in-python,python,How to remove parentheses and apostrophe mark in output list in python,0
+2021-09-23 17:59:33Z,https://stackoverflow.com/questions/69304885/i-need-to-know-the-logic-to-solve-this-please-anyone,python,I need to know the logic to solve this please anyone? [closed],-9
+2021-09-23 17:58:40Z,https://stackoverflow.com/questions/69304874/how-can-i-loop-a-portion-of-this-python-code,python,How can i loop a portion of this python code?,0
+2021-09-23 17:57:56Z,https://stackoverflow.com/questions/69304871/the-valueerror-cannot-reindex-a-non-unique-index-with-a-method-or-limit-appears,python,the ValueError: cannot reindex a non-unique index with a method or limit appears for just cryptocurrency,0
+2021-09-23 17:57:53Z,https://stackoverflow.com/questions/69304869/reliably-detect-that-no-more-packets-are-coming,python,Reliably detect that no more packets are coming,0
+2021-09-23 17:56:07Z,https://stackoverflow.com/questions/69304837/i-have-tried-the-following-code-and-shows-me-the-error,python,I have Tried the following code and shows me the error [closed],-3
+2021-09-23 17:55:44Z,https://stackoverflow.com/questions/69304833/loading-a-tensorflow-keras-trained-model-using-load-model-returns-json-decode-er,python,"Loading a tensorflow.keras trained model using load_model returns JSON decode error, while untrained model loads normally",0
+2021-09-23 17:54:45Z,https://stackoverflow.com/questions/69304813/how-can-i-make-a-matrix-print-in-a-specific-way-in-python,python,How can I make a matrix print in a specific way in python?,-1
+2021-09-23 17:54:09Z,https://stackoverflow.com/questions/69304804/how-to-use-previous-values-of-a-to-be-defined-value,python,"How to use previous values of a 'to be defined' value",0
+2021-09-23 17:53:58Z,https://stackoverflow.com/questions/69304803/defining-each-list-in-a-for-loop-in-python,python,Defining each list in a FOR loop in Python,0
+2021-09-23 17:52:21Z,https://stackoverflow.com/questions/69304784/how-to-efficiently-count-words-in-a-json-file,python,How to efficiently count words in a json file,-1
+2021-09-23 17:48:33Z,https://stackoverflow.com/questions/69304745/how-does-masking-masking-approach-works-in-pandas,python,How does masking masking approach works in pandas?,0
+2021-09-23 17:43:16Z,https://stackoverflow.com/questions/69304682/plotting-python-plotly-ecdf-subplots-with-marginal-plots,python,Plotting Python Plotly ECDF subplots with marginal plots,0
+2021-09-23 17:42:08Z,https://stackoverflow.com/questions/69304670/python-static-variables,python,Python static variables,0
+2021-09-23 17:40:39Z,https://stackoverflow.com/questions/69304649/attributeerror-ui-newwindow-object-has-no-attribute-lineedit,python,"AttributeError: 'Ui_newWindow' object has no attribute 'lineEdit' [duplicate]",0
+2021-09-23 17:40:26Z,https://stackoverflow.com/questions/69304647/python-ftp-works-in-linux-but-i-get-winerror-10060-in-windows-server-is-up,python,python FTP works in Linux but I get WinError 10060 in Windows - server is up,0
+2021-09-23 17:40:06Z,https://stackoverflow.com/questions/69304640/python-is-there-a-way-to-sort-a-list-of-lists-by-frequency-of-a-specific-element,python,Python is there a way to sort a list of lists by frequency of a specific element?,0
+2021-09-23 17:37:59Z,https://stackoverflow.com/questions/69304613/time-series-data-preparation-for-lstm-classification,python,Time series data preparation for LSTM classification,0
+2021-09-23 17:37:16Z,https://stackoverflow.com/questions/69304601/how-to-correctly-append-binary-files-in-python,python,How to correctly append binary files in python,-1
+2021-09-23 17:35:41Z,https://stackoverflow.com/questions/69304588/need-help-on-a-tkinter-application,python,Need help on a tkinter application,0
+2021-09-23 17:31:17Z,https://stackoverflow.com/questions/69304553/scraping-reviews-from-yelp-always-returns-first-page,python,Scraping Reviews from yelp always returns first page,0
+2021-09-23 17:29:27Z,https://stackoverflow.com/questions/69304534/what-do-you-call-this-type-of-class-declaration,python,What do you call this type of class declaration? [duplicate],0
+2021-09-23 17:28:22Z,https://stackoverflow.com/questions/69304516/chrome-in-headless-mode-with-selenium,python,chrome in headless mode with selenium,1
+2021-09-23 17:27:10Z,https://stackoverflow.com/questions/69304501/geopandas-dissolve-is-turning-multipolygon-into-polygon-and-these-are-not-stored,python,GeoPandas Dissolve is turning Multipolygon into Polygon and these are not stored in KML files,0
+2021-09-23 17:24:22Z,https://stackoverflow.com/questions/69304473/integration-of-pandas-dataframe-yields-an-array-with-a-different-length-how-to,python,Integration of pandas dataframe yields an array with a different length. How to store this in the same dataframe?,0
+2021-09-23 18:01:31Z,https://stackoverflow.com/questions/69304909/cant-deploy-python-django-flask-app-to-heroku,flask,"Can't deploy Python Django Flask app to Heroku?",0
+2021-09-23 17:20:39Z,https://stackoverflow.com/questions/69304418/i-set-debug-mode-on-in-flask-but-it-is-being-showed-as-off-in-console,flask,"I set debug mode on in Flask but it is being showed as ""off"" in console",0
+2021-09-23 17:12:18Z,https://stackoverflow.com/questions/69304312/display-column-names-in-the-python-restapi-response,flask,Display column names in the python restapi response,0
+2021-09-23 16:45:53Z,https://stackoverflow.com/questions/69303964/parsing-request-params-flask,flask,Parsing request params Flask,-2
+2021-09-23 16:06:46Z,https://stackoverflow.com/questions/69303439/is-this-a-basic-webhook-in-flask,flask,Is this a basic webhook in flask? [closed],-1
+2021-09-23 15:02:19Z,https://stackoverflow.com/questions/69302505/is-there-a-way-to-iterate-over-a-list-of-dates-in-python,flask,Is there a way to iterate over a list of dates in python [closed],-3
+2021-09-23 15:00:33Z,https://stackoverflow.com/questions/69302474/cannot-run-flask-python-app-locally-in-docker-container-timeout,flask,Cannot run Flask Python app locally in docker container - Timeout [duplicate],-1
+2021-09-23 14:23:52Z,https://stackoverflow.com/questions/69301904/how-to-change-order-by-clause-in-flask-sqlalchemy-based-on-dropdown-box-selectio,flask,How to change order_by clause in Flask-SQLAlchemy based on dropdown box selection?,0
+2021-09-23 12:03:32Z,https://stackoverflow.com/questions/69299644/flask-application-is-not-throwing-the-link-how-to-fix-this-issue,flask,flask application is not throwing the link how to fix this issue [duplicate],-1
+2021-09-23 11:41:37Z,https://stackoverflow.com/questions/69299329/want-to-add-json-data-do-dynamic-html-table-using-flask,flask,want to add json data do dynamic html table using flask,-1
+2021-09-23 11:36:09Z,https://stackoverflow.com/questions/69299252/how-to-server-side-pagination-in-flask,flask,How to server side pagination in flask,-1
+2021-09-23 11:22:37Z,https://stackoverflow.com/questions/69299054/when-flask-migrate-add-command-flask-db,flask,When flask-migrate add command `flask db`,-1
+2021-09-23 10:44:12Z,https://stackoverflow.com/questions/69298494/unable-to-use-getcurrentposition-in-a-flask-local-host-app,flask,unable to use getCurrentPosition() in a Flask local host app,0
+2021-09-23 10:16:40Z,https://stackoverflow.com/questions/69298117/is-it-possible-to-hide-the-variables-part-when-using-get,flask,Is it possible to hide the variables part when using GET?,-1
+2021-09-23 09:46:14Z,https://stackoverflow.com/questions/69297691/flasktypeerror-function-object-is-not-subscriptable,flask,"[Flask]TypeError: 'function' object is not subscriptable",-1
+2021-09-23 09:36:14Z,https://stackoverflow.com/questions/69297549/how-to-run-python3-script-in-detached-mode,flask,How to run python3 script in detached mode?,-1
+2021-09-23 09:05:53Z,https://stackoverflow.com/questions/69297094/plot-from-a-sql-database-in-python,flask,Plot from a SQL database in python,0
+2021-09-23 07:57:01Z,https://stackoverflow.com/questions/69296068/how-to-make-a-variable-available-for-all-the-functions-of-my-routes-py-file-in-f,flask,How to make a variable available for all the functions of my routes.py file in Flask Python? [duplicate],0
+2021-09-23 05:02:38Z,https://stackoverflow.com/questions/69294279/have-example-or-data-about-gan-model-web-publishing,flask,Have example or data about GAN Model web publishing? [duplicate],-1
+2021-09-23 04:43:23Z,https://stackoverflow.com/questions/69294140/inspect-request-headers-and-payload-for-a-external-request-in-flask-route,flask,Inspect Request Headers and Payload for a external request in Flask route,-1
+2021-09-23 04:37:29Z,https://stackoverflow.com/questions/69294101/passing-variable-values-from-one-route-to-another-in-a-token-authenticated-flask,flask,Passing variable values from one route to another in a token authenticated flask application [duplicate],0
+2021-09-23 04:20:59Z,https://stackoverflow.com/questions/69293988/embeding-a-python-string-in-html,flask,Embeding a python string in HTML,-1
+2021-09-23 04:16:33Z,https://stackoverflow.com/questions/69293957/sending-confirmation-emails-with-flask-error-not-send,flask,Sending Confirmation Emails with Flask error not send [closed],-2
+2021-09-23 04:13:56Z,https://stackoverflow.com/questions/69293939/how-can-you-convert-an-integer-to-a-string-in-jinja2,flask,How can you convert an integer to a string in Jinja2? [duplicate],-1
+2021-09-23 02:25:21Z,https://stackoverflow.com/questions/69293296/pycrypto-aes-decryption-failing-something-to-do-with-byte-string-conversion,flask,"PyCrypto: AES decryption failing, something to do with byte/string conversion?",0
+2021-09-22 20:13:58Z,https://stackoverflow.com/questions/69290730/app-route-mybot-method-post-attributeerror-str-object-has-no-attribu,flask,"@app.route('/mybot',method=['POST']) AttributeError: 'str' object has no attribute 'route'",-1
+2021-09-22 19:58:43Z,https://stackoverflow.com/questions/69290545/how-do-you-serve-media-files-in-flask-restful-api,flask,How do you serve media files in flask restful api? [closed],-2
+2021-09-22 19:50:59Z,https://stackoverflow.com/questions/69290457/how-to-skip-block-the-before-request-call-in-pytest-for-python-flask-application,flask,How to skip/block the before_request call in pytest for Python flask application?,0
+2021-09-22 19:40:00Z,https://stackoverflow.com/questions/69290331/why-does-render-template-fail-while-send-from-directory-works-in-flask,flask,Why does render_template fail while send_from_directory works in flask?,0
+2021-09-22 19:12:35Z,https://stackoverflow.com/questions/69290019/how-to-pass-a-json-string-to-a-url-using-flask,flask,how to pass a json String to a url using Flask,1
+2021-09-22 18:41:56Z,https://stackoverflow.com/questions/69289689/how-to-receive-a-dynamic-jquery-field-in-flask-server-side,flask,how to receive a dynamic jQuery field in flask server side,0
+2021-09-22 18:41:34Z,https://stackoverflow.com/questions/69289685/python-flask-mqtt-socketio-and-subscribing-on-startup,flask,Python flask mqtt socketio and subscribing on startup,0
+2021-09-22 18:35:05Z,https://stackoverflow.com/questions/69289601/how-to-access-flask-rest-api-from-other-python-app,flask,how to access Flask REST API from other python app,-1
+2021-09-22 17:49:11Z,https://stackoverflow.com/questions/69289050/passing-data-from-flask-to-javascript-the-format,flask,"Passing data from flask to Javascript, the format [duplicate]",0
+2021-09-22 17:06:29Z,https://stackoverflow.com/questions/69288490/why-does-my-flask-api-endpoint-get-a-cors-error-but-other-similarly-programmed,flask,"Why does my Flask API endpoint get a CORS error, but other similarly programmed endpoints do not?",0
+2021-09-22 16:30:25Z,https://stackoverflow.com/questions/69288026/yet-another-question-about-flasks-application-context-and-sqlalchemy,flask,"Yet another question about Flask's application context and SQLAlchemy [duplicate]",0
+2021-09-22 14:18:44Z,https://stackoverflow.com/questions/69286055/flask-redirecturl-for-with-arguments,flask,Flask redirect(url_for) with arguments,-1
+2021-09-22 14:13:28Z,https://stackoverflow.com/questions/69285972/flask-sqlalchemy-limit-offset-pagination-performance-for-oracle,flask,Flask-sqlalchemy limit offset pagination performance for Oracle,0
+2021-09-22 14:04:30Z,https://stackoverflow.com/questions/69285847/handle-propfind-method-flask,flask,handle PROPFIND method flask,-1
+2021-09-22 13:59:18Z,https://stackoverflow.com/questions/69285773/flask-sqlalchemy-and-blueprints,flask,Flask SQLAlchemy and Blueprints,0
+2021-09-22 12:25:03Z,https://stackoverflow.com/questions/69284183/how-to-process-form-argument-in-flask-after-using-button-action,flask,How to process form argument in Flask after using button action,0
+2021-09-22 11:24:24Z,https://stackoverflow.com/questions/69283242/flash-messaging-not-appear-in-flask,flask,flash messaging not appear in flask,-1
+2021-09-22 11:00:56Z,https://stackoverflow.com/questions/69282889/how-to-authenticate-with-flask-restful-using-class-resource,flask,How to authenticate with flask-restful using class Resource?,-1
+2021-09-22 09:07:01Z,https://stackoverflow.com/questions/69281220/linking-external-file-with-svg-tags-to-html,flask,Linking external file with svg tags to HTML [duplicate],-1
+2021-09-22 07:29:36Z,https://stackoverflow.com/questions/69279926/how-to-see-which-piece-of-code-is-consuming-what-amount-of-memory-in-flask-call,flask,How to see which piece of code is consuming what amount of memory in Flask call apis?,-1
+2021-09-22 07:05:54Z,https://stackoverflow.com/questions/69279634/python-docker-request-sending,flask,Python Docker request sending [duplicate],-1
+2021-09-22 06:41:41Z,https://stackoverflow.com/questions/69279366/what-is-the-optimal-way-to-display-changing-log-file-on-backend-to-frontend-usin,flask,What is the optimal way to display changing log file on backend to frontend using flask restful [duplicate],-1
+2021-09-22 03:33:02Z,https://stackoverflow.com/questions/69277843/how-to-send-the-response-to-postman-using-flask-application-python,flask,How to send the response to postman using flask application python,-1
+2021-09-22 02:36:25Z,https://stackoverflow.com/questions/69277518/put-plotly-graph-onto-html-file,flask,Put plotly graph onto html file,-1
+2021-09-22 00:37:08Z,https://stackoverflow.com/questions/69276933/flask-blueprints-modules-not-found,flask,flask blueprints modules not found [closed],-1
